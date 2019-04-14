@@ -52,7 +52,13 @@
   font-family: 'Roboto', sans-serif;
 }
 #features1-1k .mbr-section-title .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
+}
+#features1-1k .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-1k P {
+  color: #ffffff;
 }
 #form1-5 .mbr-header__text {
   text-align: center;
