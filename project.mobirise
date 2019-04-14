@@ -544,7 +544,7 @@
             }
           },
           "text1": "<strong>KONTAKT<br></strong>André Schleiter<br>Ludwigstrasse 26<br>33330 Gütersloh<br>Deutschland<br><br><b>Kontakt</b><br>\nEmail: andre.schleiter@gmail.com<br>\nPhone: +49 (0) 5241 1798798<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text2": ""
         },
         {
           "_name": "form1",
@@ -717,7 +717,7 @@
             }
           },
           "text1": "<strong>KONTAKT<br></strong>André Schleiter<br>Ludwigstrasse 26<br>33330 Gütersloh<br>Deutschland<br><br><b>Kontakt</b><br>\nEmail: andre.schleiter@gmail.com<br>\nPhone: +49 (0) 5241 1798798<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "",
           "_anchor": "contacts2-1d"
         },
         {
