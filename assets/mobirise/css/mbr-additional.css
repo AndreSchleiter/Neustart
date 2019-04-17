@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
@@ -45,7 +46,7 @@
   text-align: left;
 }
 #features1-1k .mbr-section-title .mbr-header__text {
-  color: #841413;
+  color: #c9151c;
 }
 #features1-1k .mbr-section__col .mbr-header__text {
   color: #d62913;
@@ -59,12 +60,22 @@
   text-align: center;
   color: #ffffff;
 }
-#content1-1 P {
-  color: #000000;
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
+#msg-box3-1u .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #c9151c;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box3-1u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1u .mbr-article P {
+  color: #060e64;
+  text-align: center;
 }
 #contacts1-1s P {
+  color: #000000;
+}
+#contacts1-1s B {
   color: #000000;
 }
 #ext_menu-1q .mbr-brand__name {

@@ -18,7 +18,7 @@
         "#2310e4"
       ]
     },
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -488,7 +488,7 @@
           "_anchor": "features1-1k",
           "_styles": {
             ".mbr-section-title .mbr-header__text": {
-              "color": "#841413"
+              "color": "#c9151c"
             },
             ".mbr-section__col .mbr-header__text": {
               "color": "#d62913",
@@ -553,20 +553,52 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Absenden</a>"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#c9151c",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#060e64",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "DIE SCHULE DES LEBENS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Impulse fürs Leben geben, Freiraum für Reflexion bieten und Menschen für das Entwickeln von Ideen sowie gemeinsamen Vorhaben zusammenzubringen - das ist das Anliegen von <br>DIE SCHULE DES LEBENS.</p><p>Die Veranstaltungen ermöglichen, neue Perspektiven auf die Lösung von Fragen der Lebensgestaltung zu geben.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-1",
-          "text": "<p><b>DIE SCHULE DES LEBENS</b></p><p>Impulse fürs Leben geben, Freiraum für Reflexion bieten und Menschen für das Entwickeln von Ideen sowie gemeinsamen Vorhaben zusammenzubringen - das ist das Anliegen von DIE SCHULE DES LEBENS.</p><p>Die Veranstaltungen ermöglichen, neue Perspektiven auf die Lösung von Fragen der Lebensgestaltung zu geben.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "left"
-            }
-          }
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1u"
         },
         {
           "_params": {
@@ -607,6 +639,9 @@
           "_anchor": "contacts1-1s",
           "_styles": {
             "P": {
+              "color": "#000000"
+            },
+            "B": {
               "color": "#000000"
             }
           }
