@@ -14,7 +14,8 @@
         "#7b0807",
         "#841413",
         "#2310e4",
-        "#777777"
+        "#777777",
+        "#252525"
       ]
     },
     "uniqCompNum": 64,
@@ -70,7 +71,7 @@
             "overlayColor": "#475577",
             "overlayOpacity": "0.8"
           },
-          "title": "Wie zufrieden sind Sie mit <br>Ihrer Arbeit?&nbsp;<br>Wollen Sie sich beruflich <br>neu aufstellen?&nbsp;<br>Vielleicht ein eigenes Projekt starten?<br>Aber Sie wissen nicht wie?<br>Dann lassen Sie sich doch helfen!<br><br><br><br><br>",
+          "title": "Neustart! - Workshop&nbsp;<br><br>Inspirierende Impulse&nbsp;<br>Raum für Reflexion<br>Kraft der Gemeinschaft&nbsp;<br>- führen zum Erfolg&nbsp;<br><br><br><br><br><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Mehr erfahren</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
         },
@@ -121,7 +122,7 @@
             }
           },
           "title": "Das Konzept für Ihren Neustart",
-          "text": "<p>Brauchen Sie Zeit und einen geschützten Raum, damit Sie in Ruhe über Ihre berufliche Zukunft nachdenken können? Auch um systematisch wichtige Fragen zu klären: <br>Welche Kenntnisse, Fähigkeiten und Leidenschaften haben Sie, die sie wieder entfalten wollen? <br>Welches Vorhaben wartet schon seit langem, endlich angepackt zu werden? &nbsp; <br>Wie finden Sie eine Aufgabe, die Sie wirklich erfüllt?&nbsp;</p><p><br>Der Neustart-Workshop (2 Tage) und Follow-up-Treffen geben Ihnen Struktur und Sicherheit, um an einem<br>konkreten Projekt für mehr berufliche und persönliche Zufriedenheit zu arbeiten. &nbsp;</p><p>Dabei nutzen wir die \"Business Model You\"-Methode, um ein persönliches \"Geschäftsmodell\" <br>für jeden Teilnehmer zu erarbeiten. Das kann bedeuten, sich beim &nbsp;aktuellen Arbeitgeber neu zu positionieren oder für das eigene \"Wertangebot\" einen anderen Auftraggeber zu suchen. <br>Oder auch den Start in eine neben- oder freiberufliche Selbständigkeit vorzubereiten. <br>Oder sich ein Projekt für die Zeit nach dem Berufsaustritt zu starten.&nbsp;<br>Oder ... was wäre denn Ihr Projekt?&nbsp;</p>",
+          "text": "<p>Der Neustart-Workshop (2 Tage) und Follow-up-Treffen geben Ihnen Struktur und Sicherheit,&nbsp;<br></p><p>um einkonkretes Projekt für mehr berufliche und persönliche Zufriedenheit zu entwickeln. &nbsp;</p><p>Dabei nutzen wir die \"Business Model You\"-Methode, um ein persönliches \"Geschäftsmodell\" <br>für jeden Teilnehmer zu erarbeiten. Das kann bedeuten, sich beim &nbsp;aktuellen Arbeitgeber neu zu positionieren oder für das eigene \"Wertangebot\" einen anderen Auftraggeber zu suchen. <br>Oder den Start in eine neben- oder freiberufliche Selbständigkeit vorzubereiten. <br>Oder ein Projekt für die Zeit nach dem Berufsaustritt zu starten.&nbsp;<br>Oder ... was wäre denn Ihr Projekt?&nbsp;</p><p>Bei unserem Workshop finden Sie Zeit und Raum, um  Ihren Neustart vorzubereiten.&nbsp;</p><p>Mit der Alles-auf-einem-Blatt-Methode (Business Model You-Canvas) entwickeln sie die Grundlage für ihr persönliches Geschäftsmodell.&nbsp;</p><p>Gemeinsam mit anderen bilden Sie Erfolgsteams und unterstützen sich gegenseitig.&nbsp;</p><p>Prozessbegleitung von A bis Z: Nach dem Neustart-Workshop arbeiten wir  gemeinsam weiter. Bei Follow-up-Treffen finden Sie Unterstützung, um den Weg zu einer neuen beruflichen Perspektive kontinuierlich zu gehen.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -260,7 +261,7 @@
             }
           },
           "title2": "Energiequellen für Neustart finden",
-          "caption2": "Was sind Ihre Neigungen, Interessen und Wünsche, aus denen die Energie für einen Veränderung entstehen wird? Das ist das Fundament für einen Neustart &nbsp;",
+          "caption2": "Was sind Ihre Neigungen, Interessen und Wünsche, aus denen die Energie für einen Veränderung entstehen wird? Das ist das Fundament für einen Neustart. &nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -290,7 +291,7 @@
             }
           },
           "title4": "Mit einem Erfolgsteam<br>arbeiten&nbsp;",
-          "caption4": "Sie schließen sich mit anderen Teilnehmern zusammen, geben sich Feedback und gegenseitige Unterstützung.&nbsp;",
+          "caption4": "Sie schließen sich mit anderen Teilnehmern zur Inspiration zusammen, geben sich Feedback und gegenseitige Unterstützung.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -629,7 +630,7 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1",
-          "text": "<p><b>DIE SCHULE DES LEBENS</b></p><p>Impulse fürs Leben geben, Freiraum für Reflexion bieten und Menschen für das Entwickeln von Ideen und gemeinsamen Vorhaben zusammenzubringen, ist das Anliegen von DIE SCHULE DES LEBENS.</p><p>Die Veranstaltungen ermöglichen, neue Perspektiven auf die Lösung von Fragen der Lebensgestaltung zu geben.&nbsp;</p>",
+          "text": "<p><b>DIE SCHULE DES LEBENS</b></p><p>Impulse fürs Leben geben, Freiraum für Reflexion bieten und Menschen für das Entwickeln von Ideen sowie gemeinsamen Vorhaben zusammenzubringen - das ist das Anliegen von DIE SCHULE DES LEBENS.</p><p>Die Veranstaltungen ermöglichen, neue Perspektiven auf die Lösung von Fragen der Lebensgestaltung zu geben.&nbsp;</p>",
           "_styles": {
             "P": {
               "color": "#841413",
