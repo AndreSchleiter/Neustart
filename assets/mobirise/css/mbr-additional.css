@@ -3,15 +3,13 @@
 
 
 
-
-#header4-0 H1 {
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
+#header1-1t H1 {
   color: #c9151c;
-  font-size: 25px;
+  text-align: left;
 }
-#header4-0 P {
-  color: #faaf40;
+#header1-1t P {
+  color: #060e64;
+  text-align: left;
 }
 #msg-box4-1r .mbr-header__text {
   color: #c9151c;

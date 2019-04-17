@@ -18,7 +18,7 @@
         "#2310e4"
       ]
     },
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -36,22 +36,7 @@
       },
       "components": [
         {
-          "_inherit": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "left",
-              "color": "#c9151c",
-              "font-size": "25px"
-            },
-            "P": {
-              "color": "#faaf40"
-            }
-          },
-          "_anchor": "header4-0",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -59,21 +44,36 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsdl-grafik-a4-3-859x612.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsdl-grafik-a4-859x612.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#4c6972",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5
           },
-          "title": "Neustart! - Workshop&nbsp;<br><br><span style=\"font-weight: normal;\">Inspirierende Impulse&nbsp;<br>Raum für Reflexion<br>Kraft der Gemeinschaft&nbsp;<br>- führen zum Erfolg</span>&nbsp;<br><br><br><br><br><br>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Mehr erfahren</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
+          "title": "Neustart! - Workshop",
+          "text": "<br><b>Inspirierende Impulse<br>Raum für Reflexion <br>Kraft der Gemeinschaft&nbsp;<br>- führen zum Erfolg</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1t",
+          "_styles": {
+            "H1": {
+              "color": "#c9151c",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#060e64",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -87,7 +87,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsdl_grafik_a4-859x612.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsdl-grafik-a4-859x612.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -121,7 +121,7 @@
               "size": 0
             }
           },
-          "title": "Das Konzept für Ihren Neustart",
+          "title": "Das Konzept für Ihren Neustart!",
           "text": "<p>Der Neustart! - Workshop (2 Tage) und Follow-up-Treffen geben Ihnen Struktur und Sicherheit, <br>um ein konkretes Projekt für mehr berufliche und persönliche Zufriedenheit zu entwickeln. &nbsp;</p><p>+ Bei unserem Workshop finden Sie Zeit und Raum, um Ihren Neustart vorzubereiten.&nbsp;</p><p>+ Mit der Alles-auf-einem-Blatt-Methode (Business Model You-Canvas) entwickeln Sie <br>&nbsp; &nbsp;die Grundlage für ihr persönliches Geschäftsmodell.&nbsp;</p><p>+ Gemeinsam mit anderen bilden Sie Erfolgsteams und unterstützen sich gegenseitig.&nbsp;</p><p>+ Prozessbegleitung von A bis Z: Nach dem Neustart! - Workshop arbeiten wir gemeinsam weiter. <br>&nbsp; &nbsp;Bei Follow-up-Treffen finden Sie Unterstützung, um den Weg zu einer neuen beruflichen Perspektive<br>&nbsp; &nbsp;kontinuierlich zu gehen.&nbsp;</p><p><br>Was heißt es, mit der \"Business Model You\"-Methode ein persönliches \"Geschäftsmodell\" <br>zu erarbeiten? Das kann bedeuten, sich beim aktuellen Arbeitgeber neu zu positionieren <br>oder für das eigene \"Wertangebot\" einen anderen Auftraggeber zu suchen. <br>Oder den Start in eine neben- oder freiberufliche Selbständigkeit vorzubereiten. <br>Oder ein Projekt für die Zeit nach dem Berufsaustritt zu starten.&nbsp;<br>Oder ... was wäre denn Ihr Projekt?&nbsp;</p>",
           "_tags": [
             "Theme"
@@ -754,7 +754,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsdl_grafik_a4-859x612.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsdl-grafik-a4-859x612.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
