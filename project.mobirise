@@ -675,7 +675,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#efefef",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
@@ -687,10 +687,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -962,7 +962,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#efefef",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
@@ -974,10 +974,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
