@@ -18,7 +18,7 @@
         "#2310e4"
       ]
     },
-    "uniqCompNum": 67,
+    "uniqCompNum": 73,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -249,7 +249,7 @@
             }
           },
           "title5": "Aktionsplan für <br>180 Tage&nbsp;",
-          "caption5": "Sie definieren einen Aktionsplan mit Schritten zur Umsetzung.. <br>Mit dem Erfolgsteam treffen Sie Absprachen für regelmäßigen Check der Fortschritte. In diesem Prozess werden Sie von&nbsp;erfahrenen Trainern begleitet.&nbsp;",
+          "caption5": "Sie definieren einen Aktionsplan mit Schritten zur Umsetzung.&nbsp;<br>Mit dem Erfolgsteam treffen Sie Absprachen für regelmäßigen Check der Fortschritte. In diesem Prozess werden Sie von&nbsp;erfahrenen Trainern begleitet.&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -316,11 +316,11 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "Business Model You",
           "text": "Werfen Sie mal einen Blick <br>auf einen <br>Business Model You Canvas!<br>Beschäftigen Sie sich gerne <br>damit.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"assets/files/BMY-Canvas.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download BMY-Canvas</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"assets/files/BMY-Canvas.pdf\" data-toolbar=\"-mbrBtnMove\">Download BMY-Canvas</a> "
         },
         {
           "_params": {
@@ -352,7 +352,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bewerbung2019ahoch-9-600x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bild-schleiter-2020-231x215.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -369,16 +369,16 @@
               "name": "mobirise",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": "412"
             }
           },
           "title1": "André Schleiter",
-          "caption1": "Lernen ist meine Leidenschaft. Mein Anliegen ist es, Menschen bei der&nbsp;<br>Entfaltung Ihrer Potenziale zu unterstützen.<br><br>Als Projektmanager in der Bertelsmann Stiftung beschäftige ich mich intensiv damit, welche Kompetenzen für ihre zukünftige Arbeit brauchen.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "caption1": "Lernen ist meine Leidenschaft. Mein Anliegen ist es, Menschen bei der&nbsp;<br>Entfaltung Ihrer Potenziale zu unterstützen.<br><br>Als Projektmanager in der Bertelsmann Stiftung beschäftige ich mich intensiv damit, welche Kompetenzen Menschen für ihre zukünftige Arbeit brauchen.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.xing/profile/Andre_Schleiter\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Mein XING-Profil<br></a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bildschirmfoto-2019-04-14-um-10.58.43-548x626.png",
+              "src": "@PROJECT_PATH@/assets/images/angela-pritzkow-160x160.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -398,7 +398,7 @@
               "size": 0
             }
           },
-          "title2": "<br><br><br><br><br><br>Angela Pritzkow",
+          "title2": "<br>Angela Pritzkow",
           "caption2": "In der Zukunft geht es nicht mehr um Arbeit. Sondern schöpferisch tätig sein.&nbsp;<br><br>Als Coach, Beraterin und Prozessbegleiterin für ...",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -495,7 +495,7 @@
               "font-size": "16px"
             },
             "P": {
-              "color": "#060e64",
+              "color": "#000000",
               "font-size": "16px"
             }
           }
@@ -522,7 +522,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Haben Sie Fragen oder Anregungen zum Neustart! -Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;",
+          "title": "<p>Haben Sie Fragen oder Anregungen zum Neustart! -Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
           "form": {
             "action": "andre.schleiter@gmail.com",
             "alerts": {
@@ -630,7 +630,7 @@
             }
           },
           "text1": "<b>DIE SCHULE DES LEBENS</b><br>André Schleiter<br>Ludwigstrasse 26<br>33330 Gütersloh<br>",
-          "text2": "<strong>Kontakt</strong><br>\nEmail: andre.schleiter@gmail.com<br>\nPhone: +49 5241 1798798<br>Mobil: : +49 151 27059665",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: andre.schleiter@gmail.com<br>\nTelefon: +49 5241 1798798<br>Mobil: : +49 151 27059665",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>www.dieschuledeslebens.com</li></ul>",
           "_tags": [
             "Theme"
@@ -659,7 +659,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -699,7 +699,7 @@
               "font-size": "15px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-1k\">DAS TEAM</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">KONTAKT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1t\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-1k\">DAS TEAM</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Impressum.html#msg-box3-20\">IMPRESSUM</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -726,7 +726,7 @@
       "settings": {
         "meta_descr": "Beschreibung zu André Schleiter und Angela Pritzkow",
         "title": "DAS TEAM",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -831,7 +831,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -923,6 +923,131 @@
             }
           },
           "_anchor": "header4-1j"
+        }
+      ]
+    },
+    "Impressum.html": {
+      "settings": {
+        "meta_descr": "Impressum\n",
+        "title": "Impressum",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1y"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#efefef",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#efefef"
+            },
+            ".mbr-navbar__section": {
+              "background": "#efefef"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1t\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-1k\">DAS TEAM</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Impressum.html#msg-box3-20\">IMPRESSUM</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-dsdl-307x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1z"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#c9151c"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Impressum",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Angaben gemäß § 5 TMG &nbsp; &nbsp;<br></p><p>DIE SCHULE DES LEBENS</p><p>André Schleiter</p><p>Ludwigstraße 26</p><p>D-33330 Gütersloh</p><p><br></p><p>Vertreten durch&nbsp;</p><p>André Schleiter&nbsp;</p><p><br></p><p>Kontakt</p><p>Telefon: +49 5241 1798798</p><p>Mobil: +49 151 27059665</p><p>E-Mail: andre.schleiter@gmail.com</p><p><br></p><p>&nbsp;Verantwortlich für den Inhalt ist gemäß §55 Abs. 2 RStV:</p><p><br></p><p>André Schleiter</p><p>Ludwigstraße 26</p><p>33330 Gütersloh</p><p><br></p><p><br></p><p><br></p><p>DISCLAIMER</p><p><br></p><p>1. Inhalt der Webseite:</p><p>Die Inhalte dieser Webseite wurden sorgfältig und nach aktuellem Kenntnisstand des Autors erstellt. Wir sind für diese nur im Rahmen der allgemeinen Gesetze verantwortlich, insbesondere für eigene Inhalte nach § 7 TMG, für fremde Inhalte gem. §§ 8 – 10 TMG. Als Diensteanbieter sind wir für fremde Inhalte frühestens ab Kenntniserlangung einer konkreten Rechtsverletzung verantwortlich. Wir behalten uns vor, die informatorischen Inhalte vollständig oder teilweise zu ändern oder löschen, soweit vertragliche Verpflichtungen unberührt bleiben.<br></p><p><br></p><p>2. Verweisung auf fremde Seiten:</p><p>Inhalte fremder Webseiten, auf die wir direkt oder indirekt verweisen (durch „Hyperlinks“ oder „Deeplinks“), liegen außerhalb unseres Verantwortungsbereiches und machen wir uns nicht zu Eigen. Zum Zeitpunkt der Linksetzung waren für uns keine illegalen Inhalte auf den verlinkten Webseiten erkennbar. Da wir auf die aktuelle und zukünftige Gestaltung die Inhalte der verlinkten Webseiten keinerlei Einfluss haben, distanzieren wir uns ausdrücklich von allen Inhalten verlinkter Webseiten, die nach der Linksetzung verändert wurden. Für alle Inhalte und insbesondere für Schäden, die aus der Nutzung der in den verlinkten Webseiten aufrufbaren Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verlinkt wurde. Erhalten wir von illegalen, rechtswidrigen oder fehlerhaften Inhalten auf Webseiten Kenntnis, die wir verlinken, werden wir die Verlinkung aufheben.<br></p><p><br></p><p>3. Urheberrechte</p><p>Alle auf dieser Webseite dargestellten Inhalte, also insbesondere Texte, Bilder, Fotos, grafische Darstellungen, Musiken, Marken, Warenzeichen, unterliegen den Normen des deutschen Urheberrechts. Die Verwendung, Vervielfältigung usw. unterliegt den Rechten der jeweiligen Urheber bzw. Rechteverwalter. Wenn Sie solche Werke verwenden wollen, werden wir auf Anfrage gerne den Kontakt zum jeweiligen Urheber/Rechteverwalter herstellen.<br></p><p><br></p><p>4. Allgemeine Gleichstellung:</p><p>In den Texten wird meist nur eine Geschlechtsform gewählt um eine bessere Lesbarkeit zu gewährleisten. Davon unbeeinflusst beziehen sich die Angaben dieser Webseite auf alle Geschlechter.<br></p><p><br></p><p>Design: MOBIRISE<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-20"
         }
       ]
     }
