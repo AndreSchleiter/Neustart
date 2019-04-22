@@ -522,7 +522,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<p>Haben Sie Fragen oder Anregungen zum Neustart! -Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;<br>Datenschutz ist garantiert.</p>",
+          "title": "<p>Haben Sie Fragen oder Anregungen zum Neustart! -Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;<br><a href=\"Datenschutz.html\" class=\"text-info\">Datenschutz</a> ist garantiert.</p>",
           "form": {
             "action": "andre.schleiter@gmail.com",
             "alerts": {
@@ -659,7 +659,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutzbestimmung</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
@@ -742,7 +742,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutzbestimmung</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
@@ -913,7 +913,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutzbestimmung</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
