@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Impressum.html",
+    "currentPage": "Datenschutz.html",
     "versionFirst": "2.9.10",
     "versionPublish": "4.6.2",
     "name": "DIE SCHULE DES LEBENS",
@@ -18,7 +18,7 @@
         "#2310e4"
       ]
     },
-    "uniqCompNum": 73,
+    "uniqCompNum": 78,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -122,7 +122,7 @@
             }
           },
           "title": "Das Konzept für Ihren Neustart!",
-          "text": "<p>Der Neustart! - Workshop (2 Tage) und Follow-up-Treffen geben Ihnen Struktur und Sicherheit, <br>um ein konkretes Projekt für mehr berufliche und persönliche Zufriedenheit zu entwickeln. &nbsp;</p><p>+ Bei unserem Workshop finden Sie Zeit und Raum, um Ihren Neustart vorzubereiten.&nbsp;</p><p>+ Mit der Alles-auf-einem-Blatt-Methode (Business Model You-Canvas) entwickeln Sie <br>&nbsp; &nbsp;die Grundlage für ihr persönliches Geschäftsmodell.&nbsp;</p><p>+ Gemeinsam mit anderen bilden Sie Erfolgsteams und unterstützen sich gegenseitig.&nbsp;</p><p>+ Prozessbegleitung von A bis Z: Nach dem Neustart! - Workshop arbeiten wir gemeinsam weiter. <br>&nbsp; &nbsp;Bei Follow-up-Treffen finden Sie Unterstützung, um den Weg zu einer neuen beruflichen Perspektive<br>&nbsp; &nbsp;kontinuierlich zu gehen.&nbsp;</p><p><br>Was heißt es, mit der \"Business Model You\"-Methode ein persönliches \"Geschäftsmodell\" <br>zu erarbeiten? Das kann bedeuten, sich beim aktuellen Arbeitgeber neu zu positionieren <br>oder für das eigene \"Wertangebot\" einen anderen Auftraggeber zu suchen. <br>Oder den Start in eine neben- oder freiberufliche Selbständigkeit vorzubereiten. <br>Oder ein Projekt für die Zeit nach dem Berufsaustritt zu starten.&nbsp;<br>Oder ... was wäre denn Ihr Projekt?&nbsp;</p>",
+          "text": "<p>Der Neustart! - Workshop (2 Tage) und Follow-up-Treffen geben Ihnen Struktur und Sicherheit, <br>um ein konkretes Projekt für mehr berufliche und persönliche Zufriedenheit zu entwickeln. &nbsp;</p><p>+ Bei unserem Workshop finden Sie Zeit und Raum, um Ihren Neustart vorzubereiten.&nbsp;</p><p>+ Mit der Alles-auf-einem-Blatt-Methode (Business Model You-Canvas) entwickeln Sie <br>&nbsp; &nbsp;die Grundlage für Ihr persönliches Geschäftsmodell.&nbsp;</p><p>+ Gemeinsam mit anderen bilden Sie Erfolgsteams und unterstützen sich gegenseitig.&nbsp;</p><p>+ Prozessbegleitung von A bis Z: Nach dem Neustart! - Workshop arbeiten wir gemeinsam weiter. <br>&nbsp; &nbsp;Bei Follow-up-Treffen finden Sie Unterstützung, um den Weg zu einer neuen beruflichen Perspektive<br>&nbsp; &nbsp;kontinuierlich zu gehen.&nbsp;</p><p><br>Was heißt es, mit der \"Business Model You\"-Methode ein persönliches \"Geschäftsmodell\" <br>zu erarbeiten? Das kann bedeuten, sich beim aktuellen Arbeitgeber neu zu positionieren <br>oder für das eigene \"Wertangebot\" einen anderen Auftraggeber zu suchen. <br>Oder den Start in eine neben- oder freiberufliche Selbständigkeit vorzubereiten. <br>Oder ein Projekt für die Zeit nach dem Berufsaustritt zu starten.&nbsp;<br>Oder ... was wäre denn Ihr Projekt?&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -174,7 +174,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "Neustart-Workshop: Was bringt er Ihnen?<br>",
+          "header": "Der Neustart!-Workshop: <br>Was bringt er Ihnen?<br>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -398,7 +398,7 @@
               "size": 0
             }
           },
-          "title2": "<br>Angela Pritzkow",
+          "title2": "<br><br><br>Angela Pritzkow",
           "caption2": "In der Zukunft geht es nicht mehr um Arbeit. Sondern schöpferisch tätig sein.&nbsp;<br><br>Als Coach, Beraterin und Prozessbegleiterin für ...",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -522,7 +522,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<p>Haben Sie Fragen oder Anregungen zum Neustart! -Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+          "title": "<p>Haben Sie Fragen oder Anregungen zum Neustart! -Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;<br>Datenschutz ist garantiert.</p>",
           "form": {
             "action": "andre.schleiter@gmail.com",
             "alerts": {
@@ -649,7 +649,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -659,7 +659,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp;",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; Datenschutzbestimmung",
           "_tags": [
             "Theme"
           ],
@@ -722,210 +722,6 @@
         }
       ]
     },
-    "TEAM.html": {
-      "settings": {
-        "meta_descr": "Beschreibung zu André Schleiter und Angela Pritzkow",
-        "title": "DAS TEAM",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#841413"
-            },
-            ".mbr-navbar__section": {
-              "background": "#841413"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#cccccc"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-navbar__items a": {
-              "font-size": "15px"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#841413",
-            "hamburgerColor": "#cccccc"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-dsdl-307x128.jpg",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "KARRIERE MIT KONZEPT",
-              "link": "https://mobirise.com",
-              "title": "KKK"
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "       <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-4\" target=\"_blank\">KONTAKT</a></li>   ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
-          "_anchor": "menu-1c"
-        },
-        {
-          "_name": "contacts2",
-          "coord": [
-            51.8970824,
-            8.36472619999995
-          ],
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsdl_grafik_a4-859x612.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#841413",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Ludwigstrasse 26\n33330 Gütersloh",
-              "placeId": "ChIJndTJjvYlukcRHxuAb3ElN5A",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<b>KONTAKT</b><b><br></b><br>DIE SCHULE DES LEBENS<br>André Schleiter<br>Ludwigstrasse 26<br>33330 Gütersloh<br>Deutschland<br><br>\nEmail: andre.schleiter@gmail.com<br>Mobil: +49 (0) 151 27059665<br><br>",
-          "text2": "",
-          "_anchor": "contacts2-1d",
-          "_styles": {
-            "STRONG": {
-              "color": "#2733e0"
-            },
-            "P": {
-              "color": "#060e64"
-            },
-            "B": {
-              "color": "#c9151c"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1e"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bewerbung2019aquer-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#27aae0",
-            "overlayOpacity": "0.3"
-          },
-          "title": "Wie zufrieden sind Sie mit Ihrer Arbeit?<br>Wollen Sie sich weiter entwickeln?<br>Vielleicht ein eigenes Projekt starten?&nbsp;",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Mehr erfahren</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "text-align": "left",
-              "color": "#c9151c",
-              "font-size": "30px"
-            },
-            "P": {
-              "color": "#faaf40"
-            }
-          },
-          "_anchor": "header4-1i"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bewerbung2019aquer-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#27aae0",
-            "overlayOpacity": "0.3"
-          },
-          "title": "Wie zufrieden sind Sie mit Ihrer Arbeit?<br>Wollen Sie sich weiter entwickeln?<br>Vielleicht ein eigenes Projekt starten?&nbsp;",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Mehr erfahren</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "text-align": "left",
-              "color": "#c9151c",
-              "font-size": "30px"
-            },
-            "P": {
-              "color": "#faaf40"
-            }
-          },
-          "_anchor": "header4-1j"
-        }
-      ]
-    },
     "Impressum.html": {
       "settings": {
         "meta_descr": "Impressum\n",
@@ -936,7 +732,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -946,7 +742,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp;",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; Datenschutzbestimmung",
           "_tags": [
             "Theme"
           ],
@@ -1048,6 +844,177 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-20"
+        }
+      ]
+    },
+    "Datenschutz.html": {
+      "settings": {
+        "meta_descr": "Datenschutzvereinbarung",
+        "title": "Datenschutzvereinbarung",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-dsdl-265x110.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>DIE SCHULE DES LEBENS</b><br>André Schleiter<br>Ludwigstrasse 26<br>33330 Gütersloh<br>",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: andre.schleiter@gmail.com<br>\nTelefon: +49 5241 1798798<br>Mobil: : +49 151 27059665",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>www.dieschuledeslebens.com</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-21"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; Datenschutzbestimmung",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-22"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1t\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-1k\">DAS TEAM</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Impressum.html#msg-box3-20\">IMPRESSUM</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-dsdl-307x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-23"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#060e64"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Datenschutzerklärung</p><p><br></p><p>Allgemeiner Hinweis und Pflichtinformationen</p><p><br></p><p>Benennung der verantwortlichen Stelle</p><p><br></p><p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p><p><br></p><p>DIE SCHULE DES LEBENS</p><p>André Schleiter</p><p>Ludwigstraße 26</p><p>33330 Gütersloh</p><p><br></p><p>Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).</p><p><br></p><p><b>Widerruf Ihrer Einwilligung zur Datenverarbeitung</b></p><p>Nur mit Ihrer ausdrücklichen Einwilligung sind einige Vorgänge der Datenverarbeitung möglich. Ein Widerruf Ihrer bereits erteilten Einwilligung ist jederzeit möglich. Für den Widerruf genügt eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.<br></p><p><br></p><p><b>Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde</b></p><p>Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet. Der folgende Link stellt eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten bereit: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.<br></p><p><br></p><p>Recht auf Datenübertragbarkeit</p><p><br></p><p>Ihnen steht das Recht zu, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an Dritte aushändigen zu lassen. Die Bereitstellung erfolgt in einem maschinenlesbaren Format. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.</p><p><br></p><p>Recht auf Auskunft, Berichtigung, Sperrung, Löschung</p><p><br></p><p>Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, Herkunft der Daten, deren Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Diesbezüglich und auch zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum aufgeführten Kontaktmöglichkeiten an uns wenden.</p><p><br></p><p>SSL- bzw. TLS-Verschlüsselung</p><p><br></p><p>Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://“ Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile.</p><p><br></p><p>Kontaktformular</p><p><br></p><p>Per Kontaktformular übermittelte Daten werden einschließlich Ihrer Kontaktdaten gespeichert, um Ihre Anfrage bearbeiten zu können oder um für Anschlussfragen bereitzustehen. Eine Weitergabe dieser Daten findet ohne Ihre Einwilligung nicht statt.</p><p><br></p><p>Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Ein Widerruf Ihrer bereits erteilten Einwilligung ist jederzeit möglich. Für den Widerruf genügt eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.</p><p><br></p><p>Über das Kontaktformular übermittelte Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder keine Notwendigkeit der Datenspeicherung mehr besteht. Zwingende gesetzliche Bestimmungen - insbesondere Aufbewahrungsfristen - bleiben unberührt.</p><p><br></p><p>XING Plugin</p><p><br></p><p>Unsere Website verwendet Funktionen des Netzwerks XING. Anbieter ist die XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland.</p><p><br></p><p>Bei Aufruf einer Seite mit integrierten Xing-Funktionen wird eine Verbindung zu den Servern von Xing hergestellt. Eine Speicherung personenbezogener Daten erfolgt dabei nach unserem Kenntnisstand nicht. IP-Adressen werden nicht gespeichert, ebenso erfolgt keine Auswertung des Nutzungsverhaltens.</p><p><br></p><p>Einzelheiten zum Datenschutz und dem XING Share-Button finden Sie in der Datenschutzerklärung von XING unter: https://www.xing.com/app/share?op=data_protection.</p><p><br></p><p>Quelle: Datenschutz-Konfigurator von mein-datenschutzbeauftragter.de</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-25"
         }
       ]
     }
