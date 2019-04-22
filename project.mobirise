@@ -659,7 +659,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutz</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-primary\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\" class=\"text-primary\">Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
@@ -742,7 +742,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutz</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-primary\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\" class=\"text-primary\">Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
@@ -867,7 +867,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\">Datenschutz</a>",
+          "text": "Copyright (c) 2019 DIE SCHULE DES LEBENS. &nbsp;<a class=\"mbr-footer__link text-primary\" href=\"Impressum.html#msg-box3-20\">Impressum</a>&nbsp; <a href=\"Datenschutz.html#contacts1-21\" class=\"text-primary\">Datenschutz</a>",
           "_tags": [
             "Theme"
           ],
