@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Datenschutz.html",
     "versionFirst": "2.9.10",
     "versionPublish": "4.6.2",
     "name": "DIE SCHULE DES LEBENS",
@@ -931,7 +931,7 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#060e64"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -943,9 +943,9 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
