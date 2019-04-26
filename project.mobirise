@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Datenschutz.html",
+    "currentPage": "index.html",
     "versionFirst": "2.9.10",
     "versionPublish": "4.6.2",
     "name": "DIE SCHULE DES LEBENS",
@@ -352,7 +352,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bild-schleiter-2020-231x215.jpg",
+              "src": "@PROJECT_PATH@/assets/images/schleiter-mobirise-2-512x768.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -372,13 +372,13 @@
               "size": "412"
             }
           },
-          "title1": "André Schleiter",
+          "title1": "<br><br>André Schleiter",
           "caption1": "Lernen ist meine Leidenschaft. Mein Anliegen ist es, Menschen bei der&nbsp;<br>Entfaltung Ihrer Potenziale zu unterstützen.<br><br>Als Projektmanager in der Bertelsmann Stiftung beschäftige ich mich intensiv damit, welche Kompetenzen Menschen für ihre zukünftige Arbeit brauchen.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"http://www.xing.com/profile/Andre_Schleiter/cv\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Mein XING-Profil<br></a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/angela-pritzkow-160x160.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bildschirmfoto-2019-04-26-um-20.23.35-430x430.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -399,7 +399,7 @@
             }
           },
           "title2": "<br><br><br>Angela Pritzkow",
-          "caption2": "In der Zukunft geht es nicht mehr um Arbeit. Sondern schöpferisch tätig sein.&nbsp;<br><br>Als Coach, Beraterin und Prozessbegleiterin für ...",
+          "caption2": "In der Zukunft geht es nicht mehr allein um Arbeit. Sondern darum, schöpferisch tätig sein.&nbsp;<br><br>Als Coach, Beraterin und Prozessbegleiterin für ...",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
