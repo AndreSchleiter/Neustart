@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Datenschutz.html",
+    "currentPage": "index.html",
     "versionFirst": "2.9.10",
     "versionPublish": "4.6.2",
     "name": "DIE SCHULE DES LEBENS",
@@ -706,8 +706,8 @@
               "src": "@PROJECT_PATH@/assets/images/logo-dsdl-307x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header1-1t",
+              "alt": "",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
@@ -790,8 +790,8 @@
               "src": "@PROJECT_PATH@/assets/images/logo-dsdl-307x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header1-1t",
+              "alt": "",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
@@ -916,8 +916,8 @@
               "src": "@PROJECT_PATH@/assets/images/logo-dsdl-307x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header1-1t",
+              "alt": "",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
