@@ -122,7 +122,7 @@
             }
           },
           "title": "Das Konzept für Ihren Neustart!",
-          "text": "<p>Der Neustart! Workshop (2 Tage) und Follow-up-Treffen geben Ihnen Struktur und Sicherheit, <br>um ein konkretes Projekt für mehr berufliche und persönliche Zufriedenheit zu entwickeln. &nbsp;</p><p>+ Bei unserem Workshop finden Sie Zeit und Raum, um Ihren Neustart vorzubereiten.&nbsp;</p><p>+ Mit der Alles-auf-einem-Blatt-Methode (Business Model You-Canvas) entwickeln Sie <br>&nbsp; &nbsp;die Grundlage für Ihr persönliches Geschäftsmodell.&nbsp;</p><p>+ Gemeinsam mit anderen bilden Sie Erfolgsteams und unterstützen sich gegenseitig.&nbsp;</p><p>+ Prozessbegleitung von A bis Z: Nach dem Neustart! - Workshop arbeiten wir gemeinsam weiter. <br>&nbsp; &nbsp;Bei Follow-up-Treffen finden Sie Unterstützung, um den Weg zu einer neuen beruflichen Perspektive<br>&nbsp; &nbsp;kontinuierlich zu gehen.&nbsp;</p><p><br>Was heißt es, mit der \"Business Model You\"-Methode ein persönliches \"Geschäftsmodell\" <br>zu erarbeiten? Das kann bedeuten, sich beim aktuellen Arbeitgeber neu zu positionieren <br>oder für das eigene \"Wertangebot\" einen anderen Auftraggeber zu suchen. <br>Oder den Start in eine neben- oder freiberufliche Selbständigkeit vorzubereiten. <br>Oder ein Projekt für die Zeit nach dem Berufsaustritt zu starten.&nbsp;<br>Oder ... was wäre denn Ihr Projekt?&nbsp;</p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Der Neustart!-Workshop und Follow-up-Treffen geben Ihnen Struktur und Sicherheit, <br>um ein konkretes Projekt für mehr berufliche und persönliche Zufriedenheit zu entwickeln. &nbsp;</p><p>+ Bei unserem Workshop finden Sie Zeit und Raum, um Ihren Neustart vorzubereiten.&nbsp;</p><p>+ Mit der Alles-auf-einem-Blatt-Methode (Business Model You-Canvas) entwickeln Sie <br>&nbsp; &nbsp;die Grundlage für Ihr persönliches Geschäftsmodell.&nbsp;</p><p>+ Gemeinsam mit anderen bilden Sie Erfolgsteams und unterstützen sich gegenseitig.&nbsp;</p><p>+ Prozessbegleitung von A bis Z: Nach dem Neustart!-Workshop arbeiten wir gemeinsam weiter. <br>&nbsp; &nbsp;Bei Follow-up-Treffen finden Sie Unterstützung, um den Weg zu einer neuen beruflichen Perspektive<br>&nbsp; &nbsp;kontinuierlich zu gehen.&nbsp;</p><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>Oder ... was wäre denn Ihr Projekt?&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -174,7 +174,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "Der Neustart!Workshop: <br>Was bringt er Ihnen?<br>",
+          "header": "Der Neustart!-Workshop: <br>Was bringt er Ihnen?<br>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -522,7 +522,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<p>Haben Sie Fragen oder Anregungen zum Neustart! -Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;<br><a href=\"Datenschutz.html\" class=\"text-info\">Datenschutz</a> ist garantiert.</p>",
+          "title": "<p>Haben Sie Fragen oder Anregungen zum Neustart!-Workshop?&nbsp;<br>Dann schreiben Sie uns.&nbsp;<br><a href=\"Datenschutz.html\" class=\"text-info\">Datenschutz</a> ist garantiert.</p>",
           "form": {
             "action": "andre.schleiter@gmail.com",
             "alerts": {
