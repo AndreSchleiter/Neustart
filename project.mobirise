@@ -44,7 +44,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsdl-grafik-a4-4-859x612.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsdl-grafik-a4-5-859x612.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -56,7 +56,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.5
           },
-          "title": "Neustart!&nbsp;<br>Workshop",
+          "title": "Neustart!-&nbsp;<br>Workshop",
           "text": "<br><b>Inspirierende Impulse<br>Raum für Reflexion <br>Kraft der Gemeinschaft&nbsp;<br>- führen zum Erfolg</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -398,7 +398,7 @@
               "size": 0
             }
           },
-          "title2": "<br>Weitere Themen?<br><br><br><span style=\"font-weight: normal;\">Für viele ist die Frage, wie sie Aufgabe finden, die sie im Beruf erfüllt, von zentraler Bedeutung. Deswegen steht das hier im Vordergrund.&nbsp;<br><br>Angebote zu anderen Themen werden in Zukunft entwickelt. </span>&nbsp;",
+          "title2": "<br>Weitere Themen?<br><br><br><span style=\"font-weight: normal;\">Für viele ist die Frage, wie sie eine erfüllende berufliche Aufgabe finden, von großer Bedeutung. Deswegen steht dieses Thema bei diesem Workshop im Vordergrund.&nbsp;<br><br>Angebote zu anderen Themen werden in Zukunft entwickelt. </span>&nbsp;",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "media3": {
@@ -501,12 +501,15 @@
             },
             "P": {
               "color": "#000000",
-              "font-size": "16px"
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section__col .mbr-header__text SPAN": {
               "color": "#000000",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
             }
           }
         },
