@@ -347,7 +347,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "Das Trainerteam&nbsp;",
+          "header": "Der Initiator&nbsp;",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -373,12 +373,12 @@
             }
           },
           "title1": "<br><br>André Schleiter",
-          "caption1": "Lernen ist meine Leidenschaft. Mein Anliegen ist es, Menschen bei der&nbsp;<br>Entfaltung Ihrer Potenziale zu unterstützen.<br><br>Als Projektmanager in der Bertelsmann Stiftung beschäftige ich mich intensiv damit, welche Kompetenzen Menschen für ihre zukünftige Arbeit brauchen.&nbsp;",
+          "caption1": "Lernen ist meine Leidenschaft. Mein Anliegen ist es, Menschen bei der&nbsp;<br>Entfaltung Ihrer Potenziale zu unterstützen.<br><br>Hauptberuflich bin ich als Projektmanager in der Bertelsmann Stiftung tätig. Ich beschäftige mich intensiv damit, welche Kompetenzen Menschen für ihre zukünftige Arbeit brauchen.&nbsp;<br><br>DIE SCHULE DES LEBENS ist ein Projekt, das ich bislang als Nebentätigkeit betreibe.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"http://www.xing.com/profile/Andre_Schleiter/cv\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Mein XING-Profil<br></a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bildschirmfoto-2019-04-26-um-20.23.35-430x430.png",
+              "src": "@PROJECT_PATH@/assets/images/lebensthemen-600x405.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -398,15 +398,18 @@
               "size": 0
             }
           },
-          "title2": "<br><br><br><br>",
+          "title2": "<br>Weitere Themen?<br><br><br><span style=\"font-weight: normal;\">Für viele ist die Frage, wie sie Aufgabe finden, die sie im Beruf erfüllt, von zentraler Bedeutung. Deswegen steht das hier im Vordergrund.&nbsp;<br><br>Angebote zu anderen Themen werden in Zukunft entwickelt. </span>&nbsp;",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/lebensthemen-600x405.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -492,11 +495,18 @@
             },
             ".mbr-section__col .mbr-header__text": {
               "color": "#d62913",
-              "font-size": "16px"
+              "font-size": "16px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "P": {
               "color": "#000000",
               "font-size": "16px"
+            },
+            ".mbr-section__col .mbr-header__text SPAN": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         },
